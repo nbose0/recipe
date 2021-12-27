@@ -1,0 +1,4 @@
+package recipe
+
+class RecipeParser {
+}
